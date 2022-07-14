@@ -25,12 +25,12 @@ h3 {
   font-size:22px;
   font-family: helvetica;
 }
-ul { color:brown;
+ul li { color:brown;
   font-size:19px;
   font-family:helvetica;
   text-align: center;
 }
-ol { color:brown;
+ol li { color:brown;
   font-size:19px;
   font-family:helvetica;
   text-align: center;
