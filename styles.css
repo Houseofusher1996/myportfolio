@@ -28,10 +28,12 @@ h3 {
 ul { color:brown;
   font-size:19px;
   font-family:helvetica;
+  text-align: center;
 }
 ol { color:brown;
   font-size:19px;
   font-family:helvetica;
+  text-align: center;
 }
 a:link { color:blue;
 }
