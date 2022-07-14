@@ -4,7 +4,6 @@ html {
   padding: 20px;
   height:auto;
 }
-}
 p {
   color:brown;
   font-size:19px;
@@ -32,4 +31,12 @@ ul { color:brown;
 ol { color:brown;
   font-size:19px;
   font-family:helvetica;
+}
+a:link { color:blue;
+}
+a:visited { color:purple;
+}
+a:hover { color: green;
+}
+a:active { color: red;
 }
