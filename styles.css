@@ -38,3 +38,7 @@ a:visited { color:purple;
 }
 a:active { color: red;
 }
+.page-wrap {
+  width:800px;
+  margin:auto;
+}
