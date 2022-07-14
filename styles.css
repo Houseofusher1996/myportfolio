@@ -25,3 +25,11 @@ h3 {
   font-size:22px;
   font-family: helvetica;
 }
+ul { color:brown;
+  font-size:19px;
+  font-family:helvetica;
+}
+ol { color:brown;
+  font-size:19px;
+  font-family:helvetica;
+}
