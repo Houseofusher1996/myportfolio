@@ -39,3 +39,7 @@ a:visited { color:purple;
 }
 a:active { color: red;
 }
+.outer { text-align:center;
+}
+.inner {text-align:center;
+}
