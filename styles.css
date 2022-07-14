@@ -3,6 +3,7 @@ html, body {
   margin: auto;
   padding: 20px;
   height:auto;
+  text-align: center;
 }
 p {
   color:brown;
