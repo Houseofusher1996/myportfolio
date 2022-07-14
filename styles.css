@@ -45,3 +45,6 @@ a:active { color: red;
 }
 .inner {text-align:center;
 }
+footer { text-align: left;
+  font-size:15px
+}
