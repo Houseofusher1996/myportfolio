@@ -1,4 +1,4 @@
-html {
+html, body {
   background-color:lightcyan;
   margin: auto;
   padding: 20px;
@@ -35,8 +35,6 @@ ol { color:brown;
 a:link { color:blue;
 }
 a:visited { color:purple;
-}
-a:hover { color: green;
 }
 a:active { color: red;
 }
