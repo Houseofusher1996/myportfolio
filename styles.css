@@ -30,12 +30,16 @@ ul li { color:brown;
   font-family:helvetica;
   text-align: center;
   list-style-position: inside;
+  dsplay: table;
+  margin: auto;
 }
 ol li { color:brown;
   font-size:19px;
   font-family:helvetica;
   text-align: center;
   list-style-position: inside;
+  display: table;
+  margin: auto;
 }
 a:link { color:blue;
 }
