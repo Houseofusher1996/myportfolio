@@ -1,6 +1,9 @@
 html {
   background-color:lightcyan;
-  text-align:center;
+}
+.center {
+  text-align: center;
+  border:0;
 }
 p {
   color:brown;
