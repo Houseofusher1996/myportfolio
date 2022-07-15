@@ -36,7 +36,7 @@ ol li { color:brown;
   font-size:19px;
   font-family:helvetica;
   list-style-position: inside;
-  display: table;
+  display: list-item;
   margin: auto;
 }
 a:link { color:blue;
