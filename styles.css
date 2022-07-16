@@ -39,6 +39,10 @@ ol li { color:brown;
   display: list-item;
   margin: auto;
 }
+/* I did not want to
+choose a color for the links when the
+cursor hovers over them because
+I dislike that */
 a:link { color:blue;
 }
 a:visited { color:purple;
@@ -49,6 +53,7 @@ a:active { color: red;
 }
 .inner {text-align:center;
 }
+/* footer is aligned on the left side deliberately because I chose it that way */
 footer { text-align: left;
   font-size:15px
 }
